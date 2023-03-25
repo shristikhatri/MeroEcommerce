@@ -1,4 +1,1 @@
 # MeroEcommerce
-
-I love you !!
-💕
