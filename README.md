@@ -1,1 +1,2 @@
-# MeroEcommerce
+# MeroEcommerce 
+Where to go friday ?
